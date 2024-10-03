@@ -1,0 +1,74 @@
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Автомеханики.resources
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Вход.resources
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Запчасти.resources
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Заявки.resources
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Каталог.resources
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Комментарии.resources
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Отчёты.resources
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Пользователи.resources
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Регистрация.resources
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.История.resources
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Капчаcs.resources
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\ClassLibrary1.dll
+C:\Users\toi02\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\ClassLibrary1.pdb
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\ClassLibrary1.dll
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\ClassLibrary1.pdb
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Автомеханики.resources
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Вход.resources
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Запчасти.resources
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Заявки.resources
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.История.resources
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Капчаcs.resources
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Каталог.resources
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Комментарии.resources
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Отчёты.resources
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Пользователи.resources
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Регистрация.resources
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\4 курс\УП.02.01\27.09\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll

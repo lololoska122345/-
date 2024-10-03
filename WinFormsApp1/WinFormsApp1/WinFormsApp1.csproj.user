@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Автомеханики.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Запчасти.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Заявки.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="История.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Капчаcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Каталог.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Комментарии.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Отчёты.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Пользователи.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Регистрация.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Вход.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
